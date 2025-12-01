@@ -21,19 +21,6 @@ El objetivo es identificar si la ubicación geográfica determina rangos de temp
 - `pandas` → Carga y manipulación del dataset `clima_ciudades.csv`
 - `matplotlib`, `seaborn` → Visualización de datos
 
-**Descripción del dataset:**
-
-| Columna         | Descripción                                           |
-|-----------------|------------------------------------------------------|
-| fecha           | Fecha en formato año-mes-día                         |
-| ciudad          | Nombre de la ciudad                                  |
-| temp_max        | Temperatura máxima diaria                            |
-| temp_min        | Temperatura mínima diaria                            |
-| temp_promedio   | Temperatura promedio diaria                          |
-| humedad         | Humedad (%)                                          |
-| precipitación   | Precipitación (mm)                                   |
-| viento          | Velocidad del viento (km/h)                          |
-
 ---
 
 ## 🧹 Limpieza de Datos
@@ -58,17 +45,11 @@ El objetivo es identificar si la ubicación geográfica determina rangos de temp
 1. **Distribución de Temperaturas**  
    _Boxplot para comparar rangos y medianas entre ciudades_
 
-   ![Ejemplo Boxplot](ruta/boxplot.png)
-
 2. **Relación Temperatura vs Humedad**  
    _Scatterplot para visualizar si el calor está relacionado con ambientes más secos o húmedos_
 
-   ![Ejemplo Scatterplot](ruta/scatterplot.png)
-
 3. **Tendencia Temporal**  
    _Lineplot para observar la evolución del clima por ciudad_
-
-   ![Ejemplo Lineplot](ruta/lineplot.png)
 
 ---
 
@@ -87,3 +68,4 @@ El objetivo es identificar si la ubicación geográfica determina rangos de temp
 
 > Proyecto realizado por **Mizraim Moroyoqui Cárdenas**  
 > _Diciembre 2025_
+

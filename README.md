@@ -58,4 +58,5 @@ Pasos futuros:
 - Mayor cantidad de parámetros: Se podrían incluir datos de consumo eléctrico o enfermedades respiratorias/golpes de calor para evaluar el impacto del clima en la infraestructura y salud pública.
 
 
+
 Proyecto realizado por Mizraim Moroyoqui Cárdenas - Diciembre 2025
